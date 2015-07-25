@@ -1,0 +1,93 @@
+ls
+man less
+history | less
+less
+history
+pwd
+cd
+cd ../Applications/
+cd ./Applications/
+cd ..
+cd .
+cd ../..
+ls ~
+ppwd
+ls .
+ls ..
+ls /Applications/ -t
+ls /Applications/t
+ls /Applications/
+ls /home/
+ls /Music/
+ls /Music
+ls /music
+ls -l
+ls -
+ls /Library/ -t
+ls /t
+ls /r
+ls -lt
+cd ../Library/
+cd ../lib
+cd ../somewhere\else
+cd . .
+cd /users/chew
+ls -h
+ls --help
+ls -help
+ls -tlr
+ls -r
+ls -t
+ls -tl
+man ls
+ls -rtl
+cd /
+fdsfdsfjfdshfjkdshfkj
+git --version
+brew man
+addftinfo Applications/
+git --add
+git add
+git 
+man man
+man ls 
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'STEVENLWASHINGTON@GMAIL.COM'
+git config --global user.name 'STEVEN WASHINGTON'
+git version
+yes
+git confic --global user.name 'Steven Washington'
+git config --global user.email 'stevenlwashington@gmail.com'
+git config --global user.name "STEVEN WASHINGTON"
+git -- version
+brew install git
+echo $PATH 
+subl /etc/paths
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+brew update
+brew doctor
+kill all fishd
+brew in
+curl -fsSL http://git.io/beJs | ruby
+help
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew help
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+password
+sudo visudo;
+$ brew install wget
+brew install wget
+brew issue
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ruby-e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+/Applications/Dropbox.app/Contents/MacOS/Dropbox ; exit;
